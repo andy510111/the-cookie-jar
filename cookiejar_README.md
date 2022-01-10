@@ -60,5 +60,5 @@ git clone https://github.com/andy510111/the-cookie-jar
 * Account information can also be updated
 
 ## Contributors
-Colleen Malone
-Lorna Sankeu
+* Colleen Malone
+* Lorna Sankeu
