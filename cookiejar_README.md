@@ -58,3 +58,7 @@ git clone https://github.com/andy510111/the-cookie-jar
 * Add items to inventory and remove items
 * Checkout items when finished
 * Account information can also be updated
+
+## Contributors
+Colleen Malone
+Lorna Sankeu
